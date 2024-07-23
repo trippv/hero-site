@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   id="katman_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 600 450"
+   style="enable-background:new 0 0 600 450;"
+   xml:space="preserve"
+   sodipodi:docname="Barcode.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\Users\migue\OneDrive\Documentos\proyectos\2024_Servicios_bioinfomraticos\hero\hero\cutom_icons\Barcode.png"
+   inkscape:export-xdpi="31.327049"
+   inkscape:export-ydpi="31.327049"><metadata
+   id="metadata11"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs9" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview7"
+   showgrid="false"
+   inkscape:zoom="1.0488889"
+   inkscape:cx="312.96624"
+   inkscape:cy="306.44467"
+   inkscape:window-x="1911"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="katman_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#37404E;}
+</style>
+<path
+   class="st0"
+   d="M189.8,142.6h27.6v165.5h-27.6V142.6z M231.2,142.6H245v165.5h-13.8V142.6z M258.8,142.6h41.4v165.5h-41.4  V142.6z M313.9,142.6h13.8v165.5h-13.8V142.6z M355.3,142.6h27.6v165.5h-27.6V142.6z M396.6,142.6h13.8v165.5h-13.8V142.6z   M162.2,115.1v55.2h-27.6v-55.2c0-7.3,2.9-14.3,8.1-19.5c5.2-5.2,12.2-8.1,19.5-8.1h55.2v27.6H162.2z M438,87.5  c7.3,0,14.3,2.9,19.5,8.1c5.2,5.2,8.1,12.2,8.1,19.5v55.2H438v-55.2h-55.2V87.5H438z M162.2,280.5v55.2h55.2v27.6h-55.2  c-7.3,0-14.3-2.9-19.5-8.1c-5.2-5.2-8.1-12.2-8.1-19.5v-55.2H162.2z M438,335.7v-55.2h27.6v55.2c0,7.3-2.9,14.3-8.1,19.5  c-5.2,5.2-12.2,8.1-19.5,8.1h-55.2v-27.6H438z"
+   id="path4"
+   style="fill:#004455" />
+</svg>
